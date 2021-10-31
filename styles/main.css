@@ -1,0 +1,13 @@
+h1 {
+    color: red;
+  }
+  
+  img {
+    width: 300;
+    padding-right: 30px;
+    padding-bottom: 50px;
+  }
+  
+  .me {
+    display: flex;
+  }
